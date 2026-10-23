@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.chat",
+  "appName": "Chat",
+  "webDir": "www",
+  "server": { "url": "https://chat.example.com", "cleartext": false }
+}
